@@ -1,5 +1,5 @@
 SELECT * 
-FROM levelupapi_event;
+FROM levelupapi_eventgamer;
 
 SELECT
     g.title,
